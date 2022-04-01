@@ -1,1 +1,1 @@
-# Integrating-peripheral-with-Core
+# Integrating-IP-Cores-With_Processor
